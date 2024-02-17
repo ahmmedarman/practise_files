@@ -1,5 +1,5 @@
  void main(){
-  /*List<String> studentList = ['Arman', 'Prova', 'Supty'];
+  List<String> studentList = ['Arman', 'Prova', 'Supty'];
    print(studentList);
    print(studentList.reversed);
    print(studentList.length);
@@ -15,7 +15,7 @@
   print(studentList);
   studentList.insertAll(2, ['raisa','arisha']);
   print(studentList);
-  */
+
 
 
   mMap <int,String> studentName = {
