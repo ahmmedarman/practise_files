@@ -1,5 +1,5 @@
  void main(){
-  List<String> studentList = ['Arman', 'Prova', 'Supty'];
+  /*List<String> studentList = ['Arman', 'Prova', 'Supty'];
    print(studentList);
    print(studentList.reversed);
    print(studentList.length);
@@ -25,4 +25,13 @@
 };
 print(studentName);
 
+/*int x= 11;
+//x++;
+print(x++);
+print(x);*/
+
+ for (int i=0; i<=200; i=i+1 ){
+
+   print('i love you prova $i');
+}
 }

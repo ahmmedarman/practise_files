@@ -1,5 +1,5 @@
   void main() {
-   /* firstNumber = 40;
+    firstNumber = 40;
   int secondNumber = 30;
   int addition = firstNumber+secondNumber;
   int subtraction = firstNumber-secondNumber;
@@ -11,7 +11,7 @@
   print(subtraction);
   print(multipication);
   print(modulus);
-  print(divide);*/
+  print(divide);
 
 
    /*String myName = 'rasul ahmmed arman';
